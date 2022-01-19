@@ -1,0 +1,13 @@
+let finalResult;
+
+let evenOddResult;
+
+// Add your code here
+
+var a = 1;
+var b= 3;
+var c = 3;
+var d = 26;
+e=a+b
+f=d-c
+finalResult =e*f
